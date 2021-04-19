@@ -15,12 +15,14 @@
 }
 .card-item{
     margin-top: 50px;
+    
 }
 .anchor{
     text-decoration: none;
 }
-.card{
+div .card{
     padding: 8px;
+    border-radius: 10px;
 }
 div .card-footer{
     border-top: none;
